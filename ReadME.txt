@@ -1,1 +1,3 @@
-This is our Intelligen Systems Project.
+This is our Intelligent Systems Project.
+
+Using Neural Networks to solve Where's Waldo.
