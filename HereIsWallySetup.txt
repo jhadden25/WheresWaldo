@@ -1,0 +1,6 @@
+Install Python 3.7
+Install Pipenv
+Run pipenv install to install the dependencies
+Run pipenv shell to activate the Pipenv environment
+
+https://github.com/tadejmagajna/HereIsWally/blob/master/Pipfile
