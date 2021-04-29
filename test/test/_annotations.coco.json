@@ -1,0 +1,127 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "9",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/waldowhere/9",
+        "date_created": "2021-04-26T18:12:24+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Waldo",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Waldo",
+            "supercategory": "Waldo"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "6_jpg.rf.cda922d01f141f7b7daff49163011424.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-04-26T18:12:24+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "8copy_jpg.rf.2f960e4025d6f85ecf6a138b790c5a90.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-04-26T18:12:24+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "8_jpg.rf.70e7dd97fb2559bb9cb0df2c2db67220.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-04-26T18:12:24+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                347,
+                116,
+                11,
+                19.5
+            ],
+            "area": 214.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                252,
+                13,
+                20,
+                35.5
+            ],
+            "area": 710,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                90,
+                27,
+                19,
+                35.5
+            ],
+            "area": 674.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                89,
+                26,
+                19,
+                35
+            ],
+            "area": 665,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                171,
+                67,
+                10,
+                26
+            ],
+            "area": 260,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}

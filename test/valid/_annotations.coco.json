@@ -1,0 +1,77 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "9",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/waldowhere/9",
+        "date_created": "2021-04-26T18:12:24+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Waldo",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Waldo",
+            "supercategory": "Waldo"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "14_jpg.rf.264946eaa19c2f137f16f09e3d59efcd.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-04-26T18:12:24+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "13_jpg.rf.311887cb6799d7f8edf29832699d430b.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-04-26T18:12:24+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                384,
+                183,
+                15,
+                17
+            ],
+            "area": 255,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                298,
+                129,
+                13.5,
+                21
+            ],
+            "area": 283.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
